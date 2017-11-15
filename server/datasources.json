@@ -1,9 +1,9 @@
 {
   "cloudant": {
-    "url": "https://8db90805-c00c-4842-b883-c0aac71dc301-bluemix:9a42c4f63aae52288b57cc907fa360ab793f381ad5b6c0137c615fae0fbe3ac7@8db90805-c00c-4842-b883-c0aac71dc301-bluemix.cloudant.com",
-    "database": "promos",
-    "username": "8db90805-c00c-4842-b883-c0aac71dc301-bluemix",
-    "password": "9a42c4f63aae52288b57cc907fa360ab793f381ad5b6c0137c615fae0fbe3ac7",
+    "url": "CHANGEURL",
+    "database": "CHANGEDB",
+    "username": "CHANGEUSERNAME",
+    "password": "CHANGEPASSWORD",
     "name": "cloudant",
     "modelIndex": "",
     "connector": "cloudant"
