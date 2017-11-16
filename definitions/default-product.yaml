@@ -1,13 +1,13 @@
 product: '1.0.0'
 
 info:
-  name: default1
-  title: default1
+  name: default
+  title: default
   version: '1.0.0'
 
 apis:
   'default1':
-    $ref: default1.yaml
+    $ref: default.yaml
 
 visibility:
   view:
